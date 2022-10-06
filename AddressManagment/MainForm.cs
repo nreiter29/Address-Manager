@@ -33,7 +33,10 @@ namespace AddressManagment {
         }
 
         private void addButton_Click(object sender, EventArgs e) {
-            listBox1.Items.Add(Addressdata); 
+            Data();
+            foreach(Address address in Addressdata) {
+                listBox1.Items.Add(address.FirstName + " " + address.LastName + " | " + address.Company + " | " + address.Street + " " + address.PostalCode + " " + address.City);
+            }
             clear();
         }
 
