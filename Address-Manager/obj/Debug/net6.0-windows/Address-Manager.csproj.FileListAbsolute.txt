@@ -1,0 +1,17 @@
+C:\Users\noahr\source\repos\Address_Managment\Address-Manager\bin\Debug\net6.0-windows\Address-Manager.exe
+C:\Users\noahr\source\repos\Address_Managment\Address-Manager\bin\Debug\net6.0-windows\Address-Manager.deps.json
+C:\Users\noahr\source\repos\Address_Managment\Address-Manager\bin\Debug\net6.0-windows\Address-Manager.runtimeconfig.json
+C:\Users\noahr\source\repos\Address_Managment\Address-Manager\bin\Debug\net6.0-windows\Address-Manager.dll
+C:\Users\noahr\source\repos\Address_Managment\Address-Manager\bin\Debug\net6.0-windows\Address-Manager.pdb
+C:\Users\noahr\source\repos\Address_Managment\Address-Manager\obj\Debug\net6.0-windows\Address-Manager.csproj.AssemblyReference.cache
+C:\Users\noahr\source\repos\Address_Managment\Address-Manager\obj\Debug\net6.0-windows\Address_Manager.MainForm.resources
+C:\Users\noahr\source\repos\Address_Managment\Address-Manager\obj\Debug\net6.0-windows\Address-Manager.csproj.GenerateResource.cache
+C:\Users\noahr\source\repos\Address_Managment\Address-Manager\obj\Debug\net6.0-windows\Address-Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noahr\source\repos\Address_Managment\Address-Manager\obj\Debug\net6.0-windows\Address-Manager.AssemblyInfoInputs.cache
+C:\Users\noahr\source\repos\Address_Managment\Address-Manager\obj\Debug\net6.0-windows\Address-Manager.AssemblyInfo.cs
+C:\Users\noahr\source\repos\Address_Managment\Address-Manager\obj\Debug\net6.0-windows\Address-Manager.csproj.CoreCompileInputs.cache
+C:\Users\noahr\source\repos\Address_Managment\Address-Manager\obj\Debug\net6.0-windows\Address-Manager.dll
+C:\Users\noahr\source\repos\Address_Managment\Address-Manager\obj\Debug\net6.0-windows\refint\Address-Manager.dll
+C:\Users\noahr\source\repos\Address_Managment\Address-Manager\obj\Debug\net6.0-windows\Address-Manager.pdb
+C:\Users\noahr\source\repos\Address_Managment\Address-Manager\obj\Debug\net6.0-windows\Address-Manager.genruntimeconfig.cache
+C:\Users\noahr\source\repos\Address_Managment\Address-Manager\obj\Debug\net6.0-windows\ref\Address-Manager.dll

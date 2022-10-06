@@ -1,0 +1,12 @@
+C:\Users\noahr\source\repos\Address_Managment\Address-Manager.Class\bin\Debug\net6.0\Address-Manager.Class.deps.json
+C:\Users\noahr\source\repos\Address_Managment\Address-Manager.Class\bin\Debug\net6.0\Address-Manager.Class.dll
+C:\Users\noahr\source\repos\Address_Managment\Address-Manager.Class\bin\Debug\net6.0\Address-Manager.Class.pdb
+C:\Users\noahr\source\repos\Address_Managment\Address-Manager.Class\obj\Debug\net6.0\Address-Manager.Class.csproj.AssemblyReference.cache
+C:\Users\noahr\source\repos\Address_Managment\Address-Manager.Class\obj\Debug\net6.0\Address-Manager.Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noahr\source\repos\Address_Managment\Address-Manager.Class\obj\Debug\net6.0\Address-Manager.Class.AssemblyInfoInputs.cache
+C:\Users\noahr\source\repos\Address_Managment\Address-Manager.Class\obj\Debug\net6.0\Address-Manager.Class.AssemblyInfo.cs
+C:\Users\noahr\source\repos\Address_Managment\Address-Manager.Class\obj\Debug\net6.0\Address-Manager.Class.csproj.CoreCompileInputs.cache
+C:\Users\noahr\source\repos\Address_Managment\Address-Manager.Class\obj\Debug\net6.0\Address-Manager.Class.dll
+C:\Users\noahr\source\repos\Address_Managment\Address-Manager.Class\obj\Debug\net6.0\refint\Address-Manager.Class.dll
+C:\Users\noahr\source\repos\Address_Managment\Address-Manager.Class\obj\Debug\net6.0\Address-Manager.Class.pdb
+C:\Users\noahr\source\repos\Address_Managment\Address-Manager.Class\obj\Debug\net6.0\ref\Address-Manager.Class.dll
